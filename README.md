@@ -1,0 +1,1 @@
+# This is a light theme based on [light delight](https://github.com/dnonov/light-delight)
