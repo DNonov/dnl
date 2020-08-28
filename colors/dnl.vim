@@ -17,7 +17,7 @@ set background=light
 hi clear
 syntax reset
 
-let g:colors_name = "light-delight"
+let g:colors_name = "dnl"
 
 if has("gui_running") || &t_Co == 88 || &t_Co == 256
 	" Returns an approximate grey index for the given grey level
